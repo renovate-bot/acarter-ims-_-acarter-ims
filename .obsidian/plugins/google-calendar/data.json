@@ -1,6 +1,6 @@
 {
-  "googleClientId": "427348791806-kj1sk46dle589rob644b4ihq08hvug6m.apps.googleusercontent.com",
-  "googleClientSecret": "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",
+  "googleClientId": "",
+  "googleClientSecret": "",
   "googleRefreshToken": "",
   "useCustomClient": true,
   "googleOAuthServer": "https://obsidian-google-calendar.vercel.app",
