@@ -1,0 +1,24 @@
+{
+  "stateMaps": [
+    {
+      "key": "state",
+      "structure": "keyValue",
+      "values": [
+        "waiting",
+        "ongoing",
+        "completed"
+      ]
+    },
+    {
+      "key": "Topic",
+      "structure": "keyValue",
+      "values": [
+        "CICD",
+        "Microservices",
+        "Cloud",
+        "Networking",
+        "General"
+      ]
+    }
+  ]
+}

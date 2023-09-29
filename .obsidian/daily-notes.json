@@ -1,0 +1,6 @@
+{
+  "autorun": true,
+  "format": "MM-DD-YY",
+  "folder": "Calendar",
+  "template": "zAttachments/Templates/dailies"
+}

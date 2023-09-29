@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "315bcd18b22d8442",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c69d6fc5ad85302",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89f3cd0a88d0f466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/09-29-23.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e94f339c6e50408",
+    "type": "split",
+    "children": [
+      {
+        "id": "71d85460b2c86988",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29e9b787414d01ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8ac7b24a9666957",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "833320845f8add49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffa9ced381458c48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff4ae906ef440730",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a68f340e0e587b8",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6f4e50ae55273f01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c71b6d0ef0a4af7f",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view-list",
+              "state": {
+                "tags": [
+                  "excalidraw"
+                ],
+                "title": "excalidraw"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "13badf78550f9893",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c5f74d02c11fc01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b26a064b1bc97cd3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calendar/09-29-23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1faa8cdaad4abf68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Calendar/09-29-23.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71b735b45ca62a70",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a59281a783b64f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calendar/09-29-23.md"
+              }
+            }
+          },
+          {
+            "id": "418d5eeaade7fcb8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac9c8bc13d11ab50",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Calendar/09-29-23.md"
+              }
+            }
+          },
+          {
+            "id": "d8ba8194735a16db",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb666cb4892e07e6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "6af357606c690805",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a546619126d2c65c",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "cloze:Toggle all clozes": false,
+      "graph:Open graph view": false,
+      "mermaid-tools:Open Mermaid Toolbar": true,
+      "random-note:Open random note": true,
+      "templater-obsidian:Templater": false,
+      "sync-google-calendar:Sync Google Calendar": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "a546619126d2c65c",
+  "lastOpenFiles": [
+    "zAttachments/Templates/dailies.md",
+    "Calendar/09-29-23.md",
+    "Inbox/Untitled.md",
+    "zAttachments/Templates/Daily.md",
+    "Inbox/09-29-23.md",
+    "Diagrams/Untitled.canvas",
+    "Diagrams/Untitled 2.canvas",
+    "zAttachments/Templates/Front Matter Template.md",
+    "zAttachments/Templates/cm Template.md",
+    "zAttachments/scripts",
+    "Diagrams/Untitled 1.canvas",
+    "Context/spacesLastSync.log",
+    "Context",
+    "Projects/Untitled mindmap.md",
+    "Codebase/YAML - K8s Manifests",
+    "Codebase/Terraform",
+    "Codebase",
+    "Projects/Project Overview.md",
+    "zAttachments/Templates/Frontmatter Book Template.md",
+    "zAttachments/Templates/Bullet Journal - Future Log.md",
+    "zAttachments/Templates/Table template copy.md",
+    "zAttachments/Templates/weekly.md",
+    "Attachments/Templates/Frontmatter Template copy.md",
+    "Attachments/Templates/daily.md.rtf",
+    "zAttachments/Templates/permanent.md",
+    "zAttachments/Templates/Frontmatter Template.md",
+    "Knowledge Base/Terraform",
+    "DevOps/AWS",
+    "Knowledge Base/AWS/Kubernetes",
+    "Diagrams/Drawing 2023-09-28 21.03.01.excalidraw.md",
+    "Diagrams/excal-092923.excalidraw.md",
+    "Inbox/Drawing 2023-09-28 23.05.19.excalidraw.md",
+    "Inbox/Untitled 2.md",
+    "Inbox/Untitled 1.md",
+    "Diagrams/excal-092923_0.excalidraw.md",
+    "zAttachments/Templates/Table template.md",
+    "Attachments/Templates/Structure Template.md",
+    "Attachments/Templates/Meeting Notes Template.md",
+    "Attachments/Templates/Expert Template.md",
+    "Untitled 5.canvas",
+    "Untitled.canvas",
+    "Untitled 6.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 4.canvas",
+    "Untitled 1.canvas"
+  ]
+}

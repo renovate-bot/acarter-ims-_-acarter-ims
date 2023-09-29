@@ -1,0 +1,61 @@
+
+Attachments/Templates/Bullet Journal - Future Log.md
+Attachments/Templates/Bullet Journal - Future Log.md#Future Log {{Title}}
+Attachments/Templates/Bullet Journal - Future Log.md#Future Log {{Title}}#References
+Attachments/Templates/Daily.md
+Attachments/Templates/Daily.md#<% moment(tp.file.title, "YYYY-MM-DD").format("dddd Do MMMM YYYY") %>\
+Attachments/Templates/Daily.md#<% moment(tp.file.title, "YYYY-MM-DD").format("dddd Do MMMM YYYY") %>\#Evening(Review)\
+Attachments/Templates/Dataview Table Template.md
+Attachments/Templates/Front Matter Template.md
+Attachments/Templates/Frontmatter Book Template.md
+Attachments/Templates/Frontmatter Template.md
+Attachments/Templates/Frontmatter Template.md#-> https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Attachments/Templates/Frontmatter Template.md#-> https://forum.obsidian.md/t/how-to-use-tags/
+Attachments/Templates/Frontmatter Template.md#-> https://github.com/beaussan/update-time-on-edit-obsidian
+Attachments/Templates/Table template copy.md
+Attachments/Templates/Table template.md
+Attachments/Templates/Tool Template.md
+Attachments/Templates/Tool Template.md#{{Title}}#References
+Attachments/Templates/Tool Template.md#{{Title}}#Usage
+Attachments/Templates/cm Template.md
+Attachments/Templates/permanent.md
+Attachments/Templates/weekly.md
+Attachments/Templates/weekly.md#Plan
+Attachments/Templates/weekly.md#Review
+Diagrams/Drawing 2023-09-28 21.03.01.excalidraw.md
+Diagrams/Drawing 2023-09-28 21.38.05.excalidraw.md
+Diagrams/Untitled 1.canvas
+Diagrams/Untitled 2.canvas
+Diagrams/Untitled.canvas
+Diagrams/excal-092923.excalidraw.md
+Diagrams/excal-092923_0.excalidraw.md
+Inbox/09-29-23.md
+Inbox/Drawing 2023-09-28 23.05.19.excalidraw.md
+Inbox/Untitled 1.md
+Inbox/Untitled 2.md
+Inbox/Untitled.md
+Projects/Project Overview.md
+Projects/Untitled Kanban.md
+Projects/Untitled mindmap.md
+Untitled/Untitled Kanban.md
+Untitled/Untitled mindmap.md
+zAttachments/Templates/Bullet Journal - Future Log.md
+zAttachments/Templates/Bullet Journal - Future Log.md#Future Log {{Title}}
+zAttachments/Templates/Bullet Journal - Future Log.md#Future Log {{Title}}#References
+zAttachments/Templates/Daily.md
+zAttachments/Templates/Dataview Table Template.md
+zAttachments/Templates/Front Matter Template.md
+zAttachments/Templates/Frontmatter Book Template.md
+zAttachments/Templates/Frontmatter Template.md
+zAttachments/Templates/Frontmatter Template.md#-> https://creativecommons.org/licenses/by-sa/4.0/legalcode
+zAttachments/Templates/Frontmatter Template.md#-> https://forum.obsidian.md/t/how-to-use-tags/
+zAttachments/Templates/Frontmatter Template.md#-> https://github.com/beaussan/update-time-on-edit-obsidian
+zAttachments/Templates/Table template copy.md
+zAttachments/Templates/Table template.md
+zAttachments/Templates/Tool Template.md
+zAttachments/Templates/Tool Template.md#{{Title}}#References
+zAttachments/Templates/Tool Template.md#{{Title}}#Usage
+zAttachments/Templates/cm Template.md
+zAttachments/Templates/dailies.md
+zAttachments/Templates/permanent.md
+zAttachments/Templates/weekly.md

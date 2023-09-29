@@ -1,0 +1,16 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "vimMode": false,
+  "attachmentFolderPath": "Attachments",
+  "newFileLocation": "folder",
+  "legacyEditor": false,
+  "emacsyKeys": false,
+  "livePreview": false,
+  "newFileFolderPath": "Inbox",
+  "defaultViewMode": "preview",
+  "propertiesInDocument": "visible",
+  "newLinkFormat": "relative",
+  "trashOption": "local",
+  "autoConvertHtml": true
+}

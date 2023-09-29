@@ -1,0 +1,35 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "zAttachments/Templates",
+  "templates_pairs": [
+    [
+      "Dailytitle",
+      "## <% moment(tp.file.title, \"YYYY-MM-DD\").format(\"dddd Do MMMM YYYY\") %>"
+    ],
+    [
+      "tomorrow",
+      "<< [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD').subtract(1, 'd').format('YYYY-MM-DD') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD').add(1, 'd').format('YYYY-MM-DD') %>|Tomorrow]] >>"
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "/opt/homebrew/bin/zsh",
+  "user_scripts_folder": "zAttachments/scripts",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Attachments",
+      "template": "zAttachments/Templates/Dataview Table Template.md"
+    },
+    {
+      "folder": "Calendar",
+      "template": "zAttachments/Templates/dailies.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
+  "enable_ribbon_icon": true
+}

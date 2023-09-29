@@ -1,0 +1,63 @@
+{
+  "new-note-folder": "Inbox",
+  "show-checkboxes": true,
+  "tag-colors": [
+    {
+      "tagKey": "#How-To",
+      "color": "rgba(22, 201, 117, 1)",
+      "backgroundColor": "rgba(240, 93, 245, 0)"
+    },
+    {
+      "tagKey": "#Deploy",
+      "color": "rgba(250, 236, 137, 1)",
+      "backgroundColor": ""
+    },
+    {
+      "tagKey": "#Resource",
+      "color": "rgba(137, 250, 207, 1)",
+      "backgroundColor": "rgba(93, 245, 232, 0.1)"
+    }
+  ],
+  "date-trigger": "%%",
+  "time-trigger": "!!",
+  "time-format": "HH:MM:SS",
+  "date-format": "MM-DD-YY",
+  "date-display-format": "MM-DD--YY",
+  "show-relative-date": true,
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "backgroundColor": "rgba(239, 47, 63, 0)"
+    },
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "isToday": true,
+      "backgroundColor": "rgba(29, 190, 90, 0)"
+    },
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "isAfter": true,
+      "backgroundColor": "rgba(116, 22, 206, 0)"
+    }
+  ],
+  "link-date-to-daily-note": true,
+  "archive-with-date": true,
+  "append-archive-date": true,
+  "date-picker-week-start": 1,
+  "metadata-keys": [
+    {
+      "metadataKey": "WAK",
+      "label": "WAK",
+      "shouldHideLabel": false,
+      "containsMarkdown": true
+    }
+  ],
+  "new-note-template": "Attachments/Templates/Expert Template.md"
+}

@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": "#fafafa",
+    "recentlyUsedIcons": [
+      "TiGitCommit",
+      "RiProductHuntLine",
+      "TiBrandTerraform",
+      "FabDocker",
+      "FabAws"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "Calendar": "TiCalendarCog",
+  "Diagrams": "TiPentagon",
+  "Meetings": "TiMeeple",
+  "Projects": "RiProductHuntLine",
+  "Knowledge Base/AWS/Kubernetes": {
+    "iconName": null,
+    "inheritanceIcon": "FabAws"
+  },
+  "Codebase/Terraform": "TiBrandTerraform",
+  "Codebase/YAML - K8s Manifests": "TiGitCommit",
+  "DevOps": "FabDev",
+  "DevOps/AWS": "FabAws",
+  "zAttachments": "RiAttachment2",
+  "Inbox": "RiInbox2Fill"
+}
